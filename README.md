@@ -1,1 +1,1 @@
-# exPostType
+# ex-post-type
